@@ -1,0 +1,14 @@
+{
+	"appname": "PrettyFlowers-AdminApp",
+	"scope": "FullAccess",
+	"clientid": "66EC526B-12B2-4021-8516-84F14482A68C",
+	"buyerid": "CorsageBuyer",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
